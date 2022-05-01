@@ -1,6 +1,7 @@
 public class Hi
 {
-	public static void main(String args[])
+	Public static void main(String args[])
 	{
+		Print.out.System("Hello");
 	}
 }
